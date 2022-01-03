@@ -1,0 +1,280 @@
+dog
+dig
+duck
+~big
+vu and lan
+vu or lan
+viet +nam
+viet -nam
+long
+king
+project
+and
+china
+
+andadsads
+
+sdad
+
+dsad
+baba
+baba
+dog
+dog
+and b
+ba and da
+ba + da
+ba + da
+ba+da
+~able
+cc
+sdadsa
+not
+dsadsad
+con cac
+dsadsada
+dasdsad
+dsadasdas
+con meo
+and and and
+int the con
+world
+world
+world
+and long
+int the world and long
+and long
+and long
+and long
+1
+1
+the
+1 and 2
+1 or 2
+1 or 3
+3
+hot
+"vu"
+intitle:vu
+* lan
+vu *
+vu *
+thang *
+ward
+binh and dong
+-khang
+vu -dog
+vu -khang
+vu +khang
+
+vu +lan
+nguyen +dan
+vu -lan
+and c
+or b
+and b
+c and d
+c and d
+c $400..$500
+c $400....$500
+fout  x1
+c $300..$500
+fileranknum.score0  wa0
+fileranknum.score0  wa0
+wa
+c $200..$400
+c $200..$400
+fileranknum.score0  wa0
+fileranknum.score1  wa1
+wa0  0  wa1  0
+fileranknum.totalscore  wa0 + wa1
+c $100..$1000
+and $
+c and $
+c $300..$1000
+$1..$9999
+$1..$9999
+$1..$1000
+c $1..$1000
+c $1..$99999
+and c
+b and c
+c $0..$10000
+c $0..$1000
+c and a
+c and a
+and c
+camera $400
+camera $500
+camera $350
+camera $100..$1000
+camera *
+camera * 400
+* $400
+camera $0..$9999
+camera $250
+clothe $99..$201
+clothes $200
+#happyday
+happyday
+#happy
+badass
+girl
+cat
+people
+yasu
+ys
+sea
+car $1..$999
+~actor
+~age
+~army
+~accent
+stress and acient
+stress or acient
+~camera
+~actor
+~easy
+king and slave
+~love
+~peple
+~people
+~absence
+~bit
+~hard
+~sad
+~say
+~say
+car and trip
+people and car
+year and car
+year or car
+people and car
+intitle:nha
+intitle:a
+intitle:lan
+intitle:lan
+cat and long
+people and dog
+cat and dog
+cat and dog
+cat and dog
+"a"
+"a"
+"cat"
+1123123sedsadasd
+90214o1h2412b4217840127u40129481290489217941290745901256125612704123412
+"la"
+"as"
+"dig"
+"long"
+tallest
+"dog"
+"ship"
+"car"
+"man"
+"girl"
+"think"
+"month"
+"year"
+"money"
+"there"
+"child"
+"human"
+"the human"
+"a dog"
+"a cat"
+"the baby"
+"the idea"
+"a idea"
+"an idea"
+"an idea"
+"idea"
+"this year"
+"this week"
+"this week"
+"my parent"
+i
+"i"
+"the right"
+cat and dog
+and human
+1 and 20
+100 and 20
+2018 and 2
+2018 and 20
+2018 and 2014
+2001 and 1999
+1999 and you
+1999 and we
+1999 and me
+2018 and 2000
+car and truck
+taxi and driver
+taxi and driver
+or me
+chicken or dog
+bird or fish
+or b
+c or b
+c or d
+rich or richer
+woman or men
+children or parent
+fun or sad
+media or social
+driver or taxi
+taxi or grab
+teacher or student
+1 -2
+-b
+city -people
+city -a
+city
+japan -china
+sky -blue
+risk -people
+lucky -dog
+viet nam
+-viet nam
+japan -counrty
+japan -country
+china -country
+china -wall
+great -wall
+news -bad
+sea -blue
+shank
+fish
+meat
+weather
+weather
+salery
+house
+house -expensive
+car +truck
+100 +20
+taxi +dirver
+intitle:trip
+intitle:year
+intitle:run
+intitle:run
+intitle:job
+intitle:job
+intitle:sea
+intitle:9
+intitle:vu lan
+camera $1..$999
+camera $10..$500
+car *
+* car
+he
+"he"
+* born
+born *
+#japan
+camera $200
+cat and dog
+taxi +driver
+camera $200..$500
+"last year"
